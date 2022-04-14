@@ -1,0 +1,4 @@
+sample-id	forward-absolute-filepath	reverse-absolute-filepath
+667A	/Users/gwynethhuynh/Desktop/fastq/667A_L001-ds.e599a88119e244479c6b1e64d5be20d2/667A_S276_L001_R1_001.fastq.gz	/Users/gwynethhuynh/Desktop/fastq/667A_L001-ds.e599a88119e244479c6b1e64d5be20d2/667A_S276_L001_R2_001.fastq.gz
+667B	/Users/gwynethhuynh/Desktop/fastq/667B_L001-ds.5876ea7c2f994f97930d9c48253b52b0/667B_S297_L001_R1_001.fastq.gz	/Users/gwynethhuynh/Desktop/fastq/667B_L001-ds.5876ea7c2f994f97930d9c48253b52b0/667B_S297_L001_R2_001.fastq.gz
+610C	/Users/gwynethhuynh/Desktop/fastq/610C_L001-ds.786317a1ae74403aa7301f72bf21d2d2/610C_S84_L001_R1_001.fastq.gz	/Users/gwynethhuynh/Desktop/fastq/610C_L001-ds.786317a1ae74403aa7301f72bf21d2d2/610C_S84_L001_R2_001.fastq.gz
