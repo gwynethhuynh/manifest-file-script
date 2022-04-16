@@ -1,0 +1,3 @@
+sample-id	forward-absolute-filepath	reverse-absolute-filepath
+S1	/tmp/sample-fastq/S1/S1_S01_L001_R1_001.fastq.gz	/tmp/sample-fastq/S1/S1_S01_L001_R2_001.fastq.gz
+S2	/tmp/sample-fastq/S2/S2_S01_L001_R1_001.fastq.gz	/tmp/sample-fastq/S2/S2_S01_L001_R2_001.fastq.gz
