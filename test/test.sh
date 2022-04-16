@@ -5,4 +5,4 @@ echo ""
 echo "diffstart"
 diff $gitdir/test/manifest-file-test.tsv /tmp/manifest.tsv
 echo "diffend (if above is empty it worked!)"
-
+rm /tmp/manifest.tsv
